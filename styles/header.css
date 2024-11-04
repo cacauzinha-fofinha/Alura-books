@@ -18,7 +18,7 @@
 
 .cabeçalho {
 
-    background-color: var(--branco);
+    background-color: var(--rosa);
 
     display: flex;
 
@@ -96,7 +96,7 @@
 
 .lista-menu__link {
 
-    background: var(--azul-degrade);
+    background: var(--vermelho-degrade);
 
     -webkit-background-clip: text;
 
